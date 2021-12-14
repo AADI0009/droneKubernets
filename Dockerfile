@@ -5,3 +5,4 @@ RUN chmod +x /usr/local/bin/kubectl
 COPY update.sh /bin/
 ENTRYPOINT ["/bin/bash"]
 CMD ["/bin/update.sh"]
+
