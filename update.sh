@@ -1,5 +1,4 @@
 
-
 set -e
 
 if [ -z ${PLUGIN_NAMESPACE} ]; then
